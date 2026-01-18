@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://shundi-wu.github.io/sitemap.xml
+Sitemap: https://Shundi-Wu.github.io/sitemap.xml

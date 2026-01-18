@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "Shundi-Wu/shundi-wu.github.io",
+    "data-repo": "Shundi-Wu/Shundi-Wu.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
